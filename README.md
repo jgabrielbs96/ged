@@ -1,4 +1,4 @@
-# Testes Automatizados – Projeto Interno
+# Testes Automatizados – Sistema de Documentos.
 
 Este repositório contém scripts de automação de testes desenvolvidos com Playwright, utilizando a linguagem Javascript, e também Python para algumas funções auxiliares.  
 Os testes são específicos para o projeto interno da empresa e utilizam locators e fluxos que funcionam exclusivamente nesse ambiente.
